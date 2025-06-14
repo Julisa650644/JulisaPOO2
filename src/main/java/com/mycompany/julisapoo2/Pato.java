@@ -8,6 +8,7 @@ package com.mycompany.julisapoo2;
  *
  * @author DELL
  */
-public class NewClass {
+public class Pato extends PajaroNada {
+    
     
 }

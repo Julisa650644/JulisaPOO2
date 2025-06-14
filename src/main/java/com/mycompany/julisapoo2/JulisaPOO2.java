@@ -11,7 +11,8 @@ package com.mycompany.julisapoo2;
 public class JulisaPOO2 {
 
     public static void main(String[] args) {
-        System.out.println("HOLA MUNDO!");
-        
+        Pato pato = new Pato();
+        pato.comer();
+        pato.nadar();
     }
 }
